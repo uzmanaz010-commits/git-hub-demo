@@ -2,4 +2,4 @@
 <br>
 my first git repo
 <br>
-outher-uzmanaz
+outher-uzmazan
